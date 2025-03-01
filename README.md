@@ -8,6 +8,7 @@ Two Java projects covering basic concepts such as Inheritance (at least 2), Abst
 
  **Terminal ile Çalıştırma:**
     - Terminal veya Komut Satırında aşağıdaki komutları çalıştır:
+    
     ```bash
    javac HastaneRandevuSistemi.java
    java HastaneRandevuSistemi
